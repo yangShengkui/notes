@@ -1,0 +1,48 @@
+2.原型 设备信息--添加设备
+基本信息中，需要在车间名称下，添加线体名称的下拉框
+
+xbd201808
+
+访问路径  http://ip:端口/api/rest/post/xxxUIService/方法名
+
+
+yaochunhui
+123456
+
+
+
+天使的球:
+npm install 
+
+
+天使的球:
+npm i webpack-dev-server
+
+
+天使的球:
+npm i webpack-cli  smart-angular 
+
+
+天使的球:
+npm run server
+
+
+链接:https://pan.baidu.com/s/1xLHEteuGRVZJsx4OvsYqXw  密码:s0c1
+普奥培训视频已经上传至百度云盘，我会及时更新。
+
+
+app地址：git@10.46.215.20:linjingbin/xinbada-app.git
+
+web地址：git@10.46.215.20:xinbada/ps-core-web.git
+
+svn地址：svn://114.215.222.181:3690/proudthink/20-项目/TCL
+
+用户：liujihui
+密码：2iF1crlmLr
+
+TCL地址:http://47.94.14.146/login/login.html/
+用户名:tcl_admin
+密码：abc123
+
+
+https://www.eolinker.com/#/home/project/inside/api/list?groupID=-1&projectName=psiot&projectHashKey=U24ppvc24bc18da20430d56cff4382851fd48b62d1d6924&where=1&companyHashKey=kJYyECvc6effcdcf9c175daf661bf9236bf7a62bf5a7d8a
